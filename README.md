@@ -27,4 +27,8 @@
 | ------- |
 | [0015-3sum](https://github.com/kilobyte-developer/DSA2026/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/kilobyte-developer/DSA2026/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/kilobyte-developer/DSA2026/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
