@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/kilobyte-developer/DSA2026/tree/master/0006-zigzag-conversion) |
+| [0412-fizz-buzz](https://github.com/kilobyte-developer/DSA2026/tree/master/0412-fizz-buzz) |
 ## Union-Find
 |  |
 | ------- |
@@ -49,4 +50,12 @@
 | [0176-second-highest-salary](https://github.com/kilobyte-developer/DSA2026/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/kilobyte-developer/DSA2026/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/kilobyte-developer/DSA2026/tree/master/0178-rank-scores) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/kilobyte-developer/DSA2026/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/kilobyte-developer/DSA2026/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
