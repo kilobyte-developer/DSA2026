@@ -55,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/kilobyte-developer/DSA2026/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kilobyte-developer/DSA2026/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
