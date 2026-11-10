@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kilobyte-developer/DSA2026/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kilobyte-developer/DSA2026/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/kilobyte-developer/DSA2026/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kilobyte-developer/DSA2026/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
