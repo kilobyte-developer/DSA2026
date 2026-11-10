@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/kilobyte-developer/DSA2026/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kilobyte-developer/DSA2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/kilobyte-developer/DSA2026/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/kilobyte-developer/DSA2026/tree/master/1480-running-sum-of-1d-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kilobyte-developer/DSA2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kilobyte-developer/DSA2026/tree/master/0412-fizz-buzz) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/kilobyte-developer/DSA2026/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
