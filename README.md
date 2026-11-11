@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kilobyte-developer/DSA2026/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kilobyte-developer/DSA2026/tree/master/0015-3sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kilobyte-developer/DSA2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kilobyte-developer/DSA2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/kilobyte-developer/DSA2026/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/kilobyte-developer/DSA2026/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kilobyte-developer/DSA2026/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kilobyte-developer/DSA2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
