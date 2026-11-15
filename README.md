@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/kilobyte-developer/DSA2026/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/kilobyte-developer/DSA2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kilobyte-developer/DSA2026/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kilobyte-developer/DSA2026/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1672-richest-customer-wealth](https://github.com/kilobyte-developer/DSA2026/tree/master/1672-richest-customer-wealth) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kilobyte-developer/DSA2026/tree/master/3364-minimum-positive-sum-subarray) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kilobyte-developer/DSA2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -66,6 +67,7 @@
 | [0009-palindrome-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/kilobyte-developer/DSA2026/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kilobyte-developer/DSA2026/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kilobyte-developer/DSA2026/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/kilobyte-developer/DSA2026/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kilobyte-developer/DSA2026/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kilobyte-developer/DSA2026/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
@@ -87,6 +90,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kilobyte-developer/DSA2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kilobyte-developer/DSA2026/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window
 |  |
 | ------- |
