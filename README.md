@@ -85,6 +85,7 @@
 | [0009-palindrome-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kilobyte-developer/DSA2026/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kilobyte-developer/DSA2026/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kilobyte-developer/DSA2026/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
@@ -110,10 +111,19 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kilobyte-developer/DSA2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kilobyte-developer/DSA2026/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kilobyte-developer/DSA2026/tree/master/0643-maximum-average-subarray-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kilobyte-developer/DSA2026/tree/master/3364-minimum-positive-sum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
