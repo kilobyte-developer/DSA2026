@@ -4,11 +4,20 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        mp = {}
+    #    mp = {}
 
-        for i in nums:
-            mp[i] = True
+    #     for i in nums:
+    #         mp[i] = True
 
-        for j in range(len(nums)+1):
-            if j not in mp:
-                return j 
+    #     for j in range(len(nums)+1):
+    #         if j not in mp:
+    #             return j
+
+
+        n = len(nums)
+
+        expected = n * (n + 1) // 2
+
+        actual = sum(nums)
+
+        return expected - actual
