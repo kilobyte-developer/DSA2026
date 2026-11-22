@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/kilobyte-developer/DSA2026/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/kilobyte-developer/DSA2026/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kilobyte-developer/DSA2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/kilobyte-developer/DSA2026/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kilobyte-developer/DSA2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/kilobyte-developer/DSA2026/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/kilobyte-developer/DSA2026/tree/master/0643-maximum-average-subarray-i) |
@@ -34,6 +35,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/kilobyte-developer/DSA2026/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kilobyte-developer/DSA2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kilobyte-developer/DSA2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
