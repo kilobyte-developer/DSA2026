@@ -13,16 +13,10 @@ class Solution(object):
         mp2 = {}
 
         for char in s:
-            if char in mp:
-                mp[char] +=1
-            else:
-                mp[char] = 1
-        
+            mp[char] = mp.get(char,0)+1
+
         for char2 in t:
-            if char2 in mp2:
-                mp2[char2] +=1
-            else:
-                mp2[char2] = 1
+            mp2[char2] = mp2.get(char2,0)+1
 
         return mp==mp2
         
