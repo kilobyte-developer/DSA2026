@@ -11,6 +11,7 @@
 | [0162-find-peak-element](https://github.com/kilobyte-developer/DSA2026/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kilobyte-developer/DSA2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/kilobyte-developer/DSA2026/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/kilobyte-developer/DSA2026/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/kilobyte-developer/DSA2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kilobyte-developer/DSA2026/tree/master/1480-running-sum-of-1d-array) |
@@ -24,6 +25,7 @@
 | [0001-two-sum](https://github.com/kilobyte-developer/DSA2026/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kilobyte-developer/DSA2026/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kilobyte-developer/DSA2026/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0268-missing-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kilobyte-developer/DSA2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
@@ -37,6 +39,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/kilobyte-developer/DSA2026/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kilobyte-developer/DSA2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0268-missing-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kilobyte-developer/DSA2026/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -45,6 +48,7 @@
 | [0088-merge-sorted-array](https://github.com/kilobyte-developer/DSA2026/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kilobyte-developer/DSA2026/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kilobyte-developer/DSA2026/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/kilobyte-developer/DSA2026/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -71,6 +75,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kilobyte-developer/DSA2026/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kilobyte-developer/DSA2026/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kilobyte-developer/DSA2026/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -91,6 +96,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kilobyte-developer/DSA2026/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kilobyte-developer/DSA2026/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
