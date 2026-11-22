@@ -14,4 +14,4 @@ class Solution(object):
                 l = mid + 1
             else:
                 r = mid
-        return l
+        return r
