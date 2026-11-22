@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kilobyte-developer/DSA2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kilobyte-developer/DSA2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/kilobyte-developer/DSA2026/tree/master/0217-contains-duplicate) |
+| [0643-maximum-average-subarray-i](https://github.com/kilobyte-developer/DSA2026/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/kilobyte-developer/DSA2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kilobyte-developer/DSA2026/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kilobyte-developer/DSA2026/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -94,5 +95,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kilobyte-developer/DSA2026/tree/master/0643-maximum-average-subarray-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kilobyte-developer/DSA2026/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
